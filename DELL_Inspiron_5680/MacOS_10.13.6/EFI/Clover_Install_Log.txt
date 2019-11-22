@@ -1,0 +1,2 @@
+Clover EFI installer log - Sun Jul 21 15:30:40 CST 2019
+Installer version: v2.4k r4961 EFI bootloader
