@@ -85,25 +85,6 @@
 			<key>ResetHDA</key>
 			<false/>
 		</dict>
-		<key>FakeID</key>
-		<dict>
-			<key>ATI</key>
-			<string>0x0</string>
-			<key>IMEI</key>
-			<string>0x0</string>
-			<key>IntelGFX</key>
-			<string>0x0</string>
-			<key>LAN</key>
-			<string>0x0</string>
-			<key>NVidia</key>
-			<string>0x0</string>
-			<key>SATA</key>
-			<string>0x0</string>
-			<key>WIFI</key>
-			<string>0x0</string>
-			<key>XHCI</key>
-			<string>0x0</string>
-		</dict>
 		<key>USB</key>
 		<dict>
 			<key>AddClockID</key>
@@ -167,6 +148,8 @@
 		</dict>
 		<key>NvidiaSingle</key>
 		<false/>
+		<key>ig-platform-id</key>
+		<string>0x59120000</string>
 	</dict>
 	<key>KernelAndKextPatches</key>
 	<dict>
@@ -193,6 +176,8 @@
 		<string>0x28</string>
 		<key>CsrActiveConfig</key>
 		<string>0x67</string>
+		<key>ROM</key>
+		<data>flsidlGj</data>
 	</dict>
 	<key>SMBIOS</key>
 	<dict>
@@ -283,6 +268,8 @@
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
+		<key>CustomUUID</key>
+		<string>8019BF73-CFD7-5259-B7E1-E3FF2D13FA9C</string>
 		<key>InjectKexts</key>
 		<string>Detect</string>
 		<key>InjectSystemID</key>
