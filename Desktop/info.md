@@ -1,0 +1,2 @@
+CPU: Intel Core i7-3770 @ 3.40GHz
+GPU: NVIDIA GeForce GTX 670

@@ -1,0 +1,2 @@
+CPU: Intel Core i7-8700 @ 3.20GHz
+CPU: NVIDIA GeForce GTX 1070
